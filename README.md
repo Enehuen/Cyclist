@@ -18,5 +18,5 @@ Por ultimo corregi el formato de fechas para que no me de problemas a la hora de
 ![image](https://user-images.githubusercontent.com/113563005/236903656-079035ca-8650-4e22-89c9-6167449db211.png)
 
 Realice el mismo proceso en los 4 archivos a los que denomine Q1,Q2,Q3,Q4 y los almacene en una base de datos llamada "Proyecto" 
-![image](https://user-images.githubusercontent.com/113563005/236905878-684b5d78-6fbd-4dcf-b8d0-c4bca88ae33c.png)
+![image](https://user-images.githubusercontent.com/113563005/236906056-72c6bc69-d2c9-450b-824a-3d868bf95050.png)
 
